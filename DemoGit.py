@@ -57,16 +57,7 @@ class Digraph:
 
 if __name__ == "__main__":
     routes = [
-        ("TAGUIG","PATEROS"),
-        ("PATEROS","PASIG"),
-        ("PATEROS","MAKATI"),
-        ("MAKATI","PASIG"),
-        ("MAKATI","MUNTINLUPA"),
-        ("PASIG","MARIKINA"),
-        ("MAKATI","MARIKINA"),
-        ("MARIKINA", "MAKATI"),
-        ("MAKATI", "TAGUIG")
-        #new comment
+        
 
         ]
 
